@@ -87,12 +87,12 @@ p {
  float:left; 
 } 
 
-#left1 { 
- min-height:2170px;
+#left2 { 
+ min-height:330.3%;
  width:15%; 
- background:#b48b8b; 
+ background:#2f4e66; 
  float:left; 
-}   
+} 
 
 #content { 
   width:85%; 
